@@ -2,3 +2,5 @@
 A three class image detection for poacher detection.
 
 The model accieved 90% accuracy in 20 epochs
+
+The images collected manualy resized to (224,224,3) and augmented.
