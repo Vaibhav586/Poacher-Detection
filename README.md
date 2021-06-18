@@ -1,5 +1,5 @@
 # Poacher_Detection_CNN
-A three class image detection for poacher detection.
+Poacher detection with 3 classes.
 
 Classes 3: 2-Poachers with guns, 1-Poachers with arrows, 0-No Poachers.
 
