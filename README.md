@@ -2,6 +2,8 @@ It should work in any compatable python version ( python 3.8.5 )
 
 You could run TensorFlow for CPU Only ( or/and GPU)
 
+kaggle repository image dataset and .npy files https://www.kaggle.com/georgiosgiouvanis/poacher-detection-3classes
+
 Version Used
 
 python : 3.8.5
