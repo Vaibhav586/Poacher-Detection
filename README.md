@@ -1,9 +1,15 @@
 It should work in any compatable python version ( python 3.8.5 )
+
 You could run TensorFlow for CPU Only ( or/and GPU)
+
 Version Used
-python : 3.8.5 
+
+python : 3.8.5
+
 numpy : 1.18.5
+
 Keras : 2.4.0
+
 tensorflow : 2.3.0
 
 step 1: Create virstual inviroment virtual environment. Install miniconda+keras tensorflow https://www.youtube.com/watch?v=PnK1jO2kXOQ&t=884s
