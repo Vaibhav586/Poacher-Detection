@@ -21,9 +21,9 @@ Use your own images: You will find code to resize images to prefered dimentions,
 
 step 1: Create virstual inviroment virtual environment. Install miniconda+keras tensorflow https://www.youtube.com/watch?v=PnK1jO2kXOQ&t=884s
 
-step 2:Instal keras tensorflow https://github.com/jeffheaton/t81_558_deep_learning/tree/master/install
+step 2:Install keras tensorflow https://github.com/jeffheaton/t81_558_deep_learning/tree/master/install
 
-step 3:Instal all additional libraries
+step 3:Install all additional libraries
 
 step 4:Prepare dataset , put files(=number of classes) with images to your working directory the code will label the three different classes and prepare the input for the network.
 
