@@ -1,27 +1,34 @@
-# Poacher-Detection
-This project aims to develop a deep learning-based system to detect poachers in wildlife areas using thermal imaging and IoT devices. The system uses a Convolutional Neural Network (CNN) model to identify and classify potential threats, enabling faster response times for conservation efforts.
+# Poacher Detection
 
-# Project Overview
+This project aims to develop a deep learning-based system to detect poachers in wildlife areas using thermal imaging and IoT devices. The system uses a **Convolutional Neural Network (CNN)** model to identify and classify potential threats, enabling faster response times for conservation efforts.
+
+## Project Overview
+
 The goal of this project is to use state-of-the-art AI and machine learning techniques to protect wildlife from poaching. By analyzing real-time data from thermal imaging cameras, the system can detect unusual human activity that might indicate poaching.
 
-# Key Features
-Thermal Imaging Analysis: Uses thermal imaging to detect heat signatures from humans and animals.
-Deep Learning Model: A CNN model trained on a large dataset to classify thermal images.
-IoT Integration: The system is designed to be deployed in real-time with IoT sensors, allowing continuous monitoring.
-# Technologies Used
-Deep Learning: Convolutional Neural Networks (CNN)
-Machine Learning: Python, TensorFlow/Keras (or PyTorch, depending on your implementation)
-IoT Integration: (List any sensors or devices used, such as thermal cameras, motion sensors, etc.)
-Backend: Flask API for model deployment (if applicable)
-Frontend: (If applicable, mention React or any other framework for the UI)
-# Installation
-Clone the Repository
+## Key Features
+
+- **Thermal Imaging Analysis**: Uses thermal imaging to detect heat signatures from humans and animals.
+- **Deep Learning Model**: A CNN model trained on a large dataset to classify thermal images.
+- **IoT Integration**: The system is designed to be deployed in real-time with IoT sensors, allowing continuous monitoring.
+
+## Technologies Used
+
+- **Deep Learning**: Convolutional Neural Networks (CNN)
+- **Machine Learning**: Python, TensorFlow/Keras (or PyTorch, depending on your implementation)
+- **IoT Integration**: (List any sensors or devices used, such as thermal cameras, motion sensors, etc.)
+- **Backend**: Flask API for model deployment (if applicable)
+- **Frontend**: (If applicable, mention React or any other framework for the UI)
+
+## Installation
+
+### Clone the Repository
 To get started, clone this repository to your local machine:
 
-bash
-Copy code
+```bash
 git clone https://github.com/Vaibhav586/Poacher-Detection.git
 cd Poacher-Detection
+
 Set Up the Environment
 Create a virtual environment:
 
