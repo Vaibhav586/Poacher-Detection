@@ -18,14 +18,14 @@ Frontend: (If applicable, mention React or any other framework for the UI)
 Clone the Repository
 To get started, clone this repository to your local machine:
 
-bash
+''' bash
 Copy code
 git clone https://github.com/Vaibhav586/Poacher-Detection.git
 cd Poacher-Detection
 Set Up the Environment
 Create a virtual environment:
 
-bash
+''' bash
 Copy code
 python -m venv venv
 Activate the virtual environment:
